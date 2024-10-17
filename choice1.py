@@ -1,0 +1,1 @@
+n=int(input('Choose one of the following choices:?\n 1.Count Digits \n 2.Find Max \n 3.Count Tags \n 4.Exit'))
